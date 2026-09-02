@@ -9,7 +9,6 @@ class Solution(object):
             ans[i] = ans[i-1] * nums[i-1]
         
         rightProd = 1
-
         for i in range(n-1,-1,-1):
             ans[i] *= rightProd
             rightProd *= nums[i]
