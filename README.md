@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -202,4 +203,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
