@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0739-daily-temperatures) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0239-sliding-window-maximum) |
 ## Counting
 |  |
