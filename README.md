@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0227-basic-calculator-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0739-daily-temperatures) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
