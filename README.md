@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Manacher
 |  |
 | ------- |
@@ -241,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Ayushm19/Data-Structure-and-Algorithms/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
